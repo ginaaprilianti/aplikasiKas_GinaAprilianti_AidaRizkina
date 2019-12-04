@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Studi Kasus\Studi Kasus\bin\Debug\Studi Kasus.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi Kasus.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi_Kasus.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi_Kasus.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi Kasus.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi Kasus.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\bin\Debug\Studi Kasus.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\bin\Debug\Studi Kasus.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\bin\Debug\Studi Kasus.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi Kasus.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Studi Kasus\Studi Kasus\obj\Debug\Studi Kasus.pdb
